@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Random Users</string>
+    <string name="the_user_was_not_found">The user was not found</string>
+    <string name="email">Email: %1$s</string>
+    <string name="phone">Phone: %1$s</string>
+    <string name="address">Address: %1$s %2$s, %3$s, %4$s, %5$s, %6$s</string>
+    <string name="login">Login: %1$s</string>
+    <string name="password">Password: %1$s</string>
+    <string name="coordinates">Coordinates: %1$s, %2$s</string>
+    <string name="timezone">Timezone: %1$s, %2$s</string>
+    <string name="loading">Loading…</string>
+    <string name="internet_connection_error">Internet connection error</string>
+</resources>
